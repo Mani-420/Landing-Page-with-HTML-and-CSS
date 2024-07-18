@@ -1,0 +1,16 @@
+.image {
+    width: 170px;
+    position: relative;
+    left: 550px;
+    top: 50px;
+}
+
+.image img{
+    max-width: 100%;
+    margin: 0px;
+    opacity: 1;
+}
+.number{
+    text-align: center;
+    margin: 0px;
+}
